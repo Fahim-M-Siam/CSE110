@@ -1,7 +1,7 @@
 # CSE110: Programming Language I (Python)
 
 # Details
-
+The CSE110 course offers a comprehensive introduction to programming concepts over a 12-week period. Starting with basics like variables, data types, and operators in the first week, students progress through topics such as branching with if/else statements, iterations, and string manipulation in subsequent weeks. Lab assignments are integrated throughout to reinforce learning. The course then delves into more advanced concepts like lists, dictionaries, tuples, and functions, including discussions on variable scoping. Towards the end, students explore sorting and searching algorithms, with optional topics including file I/O, exception handling, and an introduction to object-oriented programming. This structured curriculum aims to provide students with a solid foundation in Python programming and essential problem-solving skills necessary for further studies in computer science.
 
 # Course Outline:
 
